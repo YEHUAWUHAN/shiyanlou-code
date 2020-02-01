@@ -1,0 +1,4 @@
+git clone https://github.com/你的Github账号/仓库
+git add . 添加修改到暂存区
+git commit -m 备注信息 创建新的提交版本
+git push 将提交推送到远程仓库
